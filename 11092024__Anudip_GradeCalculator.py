@@ -1,3 +1,17 @@
+# Question: 
+# Grade Calculator
+# Write a Python program that calculates the grade of a student based on their scores in different subjects. The program should:
+# Ask the user to input scores for 5 subjects.
+# Use arithmetic operators to calculate the average score.
+# Use conditional statements to determine the grade based on the average:
+# A: 90-100
+# B: 80-89
+# C: 70-79
+# D: 60-69
+# F: Below 60
+# Display the average score and the grade.
+# Use functions to handle input, calculation, and grade determination.
+
 def input_scores():
     # Function to input scores for 5 subjects from the user.
     scores = []
